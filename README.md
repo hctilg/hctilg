@@ -20,7 +20,7 @@
   <br>
   <img alt="random-dev-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
   <br>
-  <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,cpp,docker,linux,rust,rocket,bash,regex,qt,selenium,python,django,fastapi,flask,ruby,rails,bots,php,mysql,mongodb,sqlite,alpinejs,express,nestjs,js,electron,threejs,p5js,tailwind,nextjs,react,typescript,vue,nuxtjs,materialui&perline=7"/>
+  <img alt="Skills" src="https://skillicons.dev/icons?i=raspberrypi,cpp,docker,linux,rust,rocket,bash,regex,qt,selenium,python,django,fastapi,flask,ruby,rails,bots,php,mysql,mongodb,sqlite,alpinejs,express,nestjs,js,electron,figma,remix,tailwind,nextjs,react,typescript,vue,nuxtjs,materialui&perline=7"/>
   <br>
   <br>
   <img alt="GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Mako,css,html,SCSS,Batchfile,SVG&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
