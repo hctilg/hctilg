@@ -53,8 +53,10 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+[![Elysia.js](https://img.shields.io/badge/Elysia.js-ff5eb5?style=flat&logo=firefoxbrowser&logoColor=white)](https://elysiajs.com/)
 [![Nest.js](https://img.shields.io/badge/Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Axios](https://img.shields.io/badge/Axios-5a29e4?style=flat&logo=axios&logoColor=white)](https://axios-http.com/)
 [![React](https://img.shields.io/badge/React-087ea4?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
@@ -69,7 +71,7 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-8bc0d0?style=flat&logo=alpinedotjs&logoColor=white)](https://laravel.com/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8bc0d0?style=flat&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev/)
 
 ## Just For Fun
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
@@ -79,6 +81,7 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 ## Currently Learning
 
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
