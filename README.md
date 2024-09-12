@@ -61,8 +61,8 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![TailwindCss](https://img.shields.io/badge/TailwindCss-06b6d4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![VueJs](https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![NuxtJs](https://img.shields.io/badge/Nuxt.js-00dc82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
+<!--[![VueJs](https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![NuxtJs](https://img.shields.io/badge/Nuxt.js-00dc82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)-->
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
