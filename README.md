@@ -61,8 +61,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![TailwindCss](https://img.shields.io/badge/TailwindCss-06b6d4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-<!--[![VueJs](https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![NuxtJs](https://img.shields.io/badge/Nuxt.js-00dc82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)-->
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
@@ -87,6 +85,7 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Nest.js](https://img.shields.io/badge/Nest.js-e0234e?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
@@ -94,5 +93,4 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 - **English**: Beginner (A2)
 - **German**: Beginner (A1)
-- **Russian**: Beginner (A1)
 - **Persian**: Native
