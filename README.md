@@ -75,7 +75,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Ruby](https://img.shields.io/badge/Ruby-cc342d.svg?style=flat&logo=ruby&logoColor=white)](https://ruby-lang.org/)
-[![React Native](https://img.shields.io/badge/React%20Native-087ea4.svg?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
 
 ## Currently Learning
 
