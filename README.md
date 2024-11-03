@@ -91,6 +91,5 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 ## Languages
 
-- **English**: Beginner (A2)
-- **German**: Beginner (A1)
+- **English**: Beginner (A1)
 - **Persian**: Native
