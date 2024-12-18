@@ -70,19 +70,19 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![Axios](https://img.shields.io/badge/Axios-5a29e4?style=flat&logo=axios&logoColor=white)](https://axios-http.com/)
 [![React](https://img.shields.io/badge/React-087ea4?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 [![TailwindCss](https://img.shields.io/badge/TailwindCss-06b6d4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 
 
 ## Currently Learning
 
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
 
