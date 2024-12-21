@@ -65,7 +65,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 ## Just For Fun
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![Elysia.js](https://img.shields.io/badge/Elysia.js-ff5eb5?style=flat&logo=firefoxbrowser&logoColor=white)](https://elysiajs.com/)
 [![Axios](https://img.shields.io/badge/Axios-5a29e4?style=flat&logo=axios&logoColor=white)](https://axios-http.com/)
@@ -86,7 +85,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 
 ## Languages
 
