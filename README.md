@@ -54,7 +54,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![MySql](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)](https://mysql.com/)
 
@@ -78,7 +77,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
