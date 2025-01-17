@@ -65,7 +65,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
 [![React](https://img.shields.io/badge/React-087ea4?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Axios](https://img.shields.io/badge/Axios-5a29e4?style=flat&logo=axios&logoColor=white)](https://axios-http.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![TailwindCss](https://img.shields.io/badge/TailwindCss-06b6d4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
