@@ -22,12 +22,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
   <a href="https://t.me/violet_void">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://element.io/">
-    <img alt="Element" src="https://img.shields.io/badge/Element-0dbd8b.svg?logo=element&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:hctilg@duck.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
   </a>
@@ -57,17 +51,12 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-8bc0d0?style=flat&logo=alpinedotjs&logoColor=white)](https://alpinejs.dev/)
+[![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
 ## Just For Fun
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
-[![React](https://img.shields.io/badge/React-087ea4?style=flat&logo=react&logoColor=white)](https://react.dev/)
-[![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-303030?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![TailwindCss](https://img.shields.io/badge/TailwindCss-06b6d4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![MUI](https://img.shields.io/badge/MUI-007fff?style=flat&logo=mui&logoColor=white)](https://mui.com/)
 
 ## Currently Learning
 
