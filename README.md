@@ -28,6 +28,8 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
 [![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
+[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
+[![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://python.org/)
@@ -42,18 +44,13 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)
 
+[![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
+
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![MySql](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)](https://mysql.com/)
-
-[![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-[![NextJs](https://img.shields.io/badge/Next.js-303030?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-## Just For Fun
-[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
-[![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Currently Learning
 
