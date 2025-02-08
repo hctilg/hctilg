@@ -37,7 +37,6 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
 [![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
-[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-cd2355.svg?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
