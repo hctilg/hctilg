@@ -51,9 +51,9 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=eeeeee)](https://en.wikipedia.org/wiki/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![JavaScript](https://img.shields.io/badge/%E2%81%AA%E2%81%AC%20JavaScript-232529?style=flat&logo=javascript&logoColor=f7df1e)](https://en.wikipedia.org/wiki/JavaScript)
 [![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
