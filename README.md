@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.
+I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.
 
 ## Socials
 
