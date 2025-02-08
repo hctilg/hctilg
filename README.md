@@ -21,13 +21,13 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
   </a>
   <a href="https://t.me/violet_void">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
-  </a>
+<!--   </a>
   <a href="https://element.io/">
     <img alt="Element" src="https://img.shields.io/badge/Element-0dbd8b.svg?logo=element&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:hctilg@duck.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
   </a>
