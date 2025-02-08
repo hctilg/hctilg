@@ -71,6 +71,7 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ## Languages
 
