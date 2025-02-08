@@ -40,7 +40,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![Pandas](https://img.shields.io/badge/Pandas-0d6efd?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 [![PySide](https://img.shields.io/badge/PySide-41cd52?style=flat&logo=qt&logoColor=white)](https://wiki.qt.io/Qt_for_Python)
-[![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)
 
@@ -60,7 +59,6 @@ I'm **Mahi**, a passionate **Web** and **Software** and **Telegram bot** develop
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)](https://djangoproject.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 
 ## Languages
