@@ -36,9 +36,8 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 # Tech Stack
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
-[![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://python.org/)
+[![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
 [![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 <!--[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -62,14 +61,9 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 ## Currently Learning
 
 [![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
-[![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ## Languages
 
