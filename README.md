@@ -45,8 +45,8 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-0d6efd?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+<!--[![Pandas](https://img.shields.io/badge/Pandas-0d6efd?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)-->
 
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -70,8 +70,6 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-0d6efd?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 
 ## Languages
 
