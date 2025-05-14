@@ -16,12 +16,12 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 ## Socials
 
 <p align="center">
-  <a href="https://youtube.com/@mahitonam">
+<!--  <a href="https://youtube.com/">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://t.me/violet_void">
+  <a href="https://t.me">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
-<!--   </a>
+  </a>
   <a href="https://element.io/">
     <img alt="Element" src="https://img.shields.io/badge/Element-0dbd8b.svg?logo=element&logoColor=white"/>
   </a>
