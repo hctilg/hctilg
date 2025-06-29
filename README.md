@@ -35,7 +35,7 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 
 <div align="center">
   <br/>
-  <h2>...</h2>
+  <h2>Temporary message</h2>
   <p>...</p>
   <br/>
 </div>
