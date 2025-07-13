@@ -9,9 +9,17 @@
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
 </p>
 
-## About Me
+<div align="center">
+  <br/>
+  <h2>Temporary message</h2>
+  <p>Due to not having stable mental conditions, I have not had significant activity for a while.<br>I will return soon, continue learning, and will delete this temporary message.</p>
+  <br/>
+  <br/>
+</div>
 
-I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.
+<!--## About Me
+
+I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.-->
 
 ## Socials
 
@@ -32,13 +40,6 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<div align="center">
-  <br/>
-  <h2>Temporary message</h2>
-  <p>...</p>
-  <br/>
-</div>
 
 <!--# Tech Stack
 
