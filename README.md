@@ -11,7 +11,11 @@
 
 <div align="center">
   <h2>Temporary message</h2>
-  <p>Due to not having stable mental conditions, I have not had significant activity for a while.<br>I will return soon, continue learning, and will delete this temporary message.</p>
+  <p>
+    I’ve been so fucking wrecked ‒ mentally (+severe family, financially, & physically problems) 
+<br>I'm just trying to survive, to live, & to find a few freedom. I really need this... 
+<br>I’ll be back soon ‒ I’ll keep learning & delete this message. (probably) 
+  </p>
   <h2>Donate</h2>
   <p>To support me, <b>Donate Money</b> or Follow Me and give <a href="https://github.com/hctilg?tab=repositories"><b>My Projects</b></a> a star 🌟</p>
   <p>USDT (BEP20) : <a href="https://link.trustwallet.com/send?coin=501&address=t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd&token_id=BFF6Egn3WY2QZc2B1wiZdgLdny8xKMC6PhfDnGopTmKQ"><code>t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd</code></a></p>
