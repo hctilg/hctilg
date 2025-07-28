@@ -1,40 +1,36 @@
-### Hey There 👋
+<!--### Hey There 👋-->
 
-<br>
+<!--<br>
 <p align="center">
   <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
 </p>
 <p align="center">
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
-</p>
+</p>-->
 
 <div align="center">
-  <br/>
   <h2>Temporary message</h2>
   <p>Due to not having stable mental conditions, I have not had significant activity for a while.<br>I will return soon, continue learning, and will delete this temporary message.</p>
-  <br/>
   <h2>Donate</h2>
-  <p>To support me, <b>Donate Money</b> or <b>Follow Me</b> and give <a href="https://github.com/hctilg?tab=repositories"><b>My Projects</b></a> a star 🌟</p>
+  <p>To support me, <b>Donate Money</b> or Follow Me and give <a href="https://github.com/hctilg?tab=repositories"><b>My Projects</b></a> a star 🌟</p>
   <p>USDT (BEP20) : <a href="https://link.trustwallet.com/send?coin=501&address=t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd&token_id=BFF6Egn3WY2QZc2B1wiZdgLdny8xKMC6PhfDnGopTmKQ"><code>t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd</code></a></p>
   <p>ETH (ETH) : <a href="https://link.trustwallet.com/send?coin=60&address=0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62"><code>0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62</code></a></p>
   <p>TRX (TRX) : <a href="https://link.trustwallet.com/send?coin=195&address=TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
-  <p><a href="https://daramet.com/hctilg"> حمایت مالی ریالی در وبسایت دارمت</a></p>
-  <br/>
-  <br/>
+  <p><a href="https://daramet.com/hctilg"><b> حمایت مالی ریالی در وبسایت دارمت</b></a></p>
 </div>
 
 <!--## About Me
 
 I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.-->
 
-## Socials
+<!--## Socials
 
 <p align="center">
   <a href="https://youtube.com/@mahi_void">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
   </a>
-<!--  <a href="https://t.me">
+  <a href="https://t.me">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
   <a href="https://element.io/">
@@ -42,14 +38,15 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
   </a>
   <a href="https://linkedin.com/in/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white"/>
-  </a> -->
+  </a>
   <a href="mailto:hctilg@duck.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p>-->
 
 <!--# Tech Stack
 
+. . .
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://python.org/)
@@ -71,13 +68,16 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)-->
 
-<!--## Currently Learning
+## Currently Learning
 
-[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<!--[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)-->
 
-## Languages
+<!--## Languages
 
 - **English**: Beginner (A1)
 - **Persian**: Native
+-->
