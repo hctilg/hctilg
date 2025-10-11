@@ -18,10 +18,10 @@
   </p>
   <h2>Donate</h2>
   <p>To support me, <b>Donate Money</b> or Follow Me and give <a href="https://github.com/hctilg?tab=repositories"><b>My Projects</b></a> a star 🌟</p>
-  <p>USDT (BEP20) : <a href="https://link.trustwallet.com/send?coin=501&address=t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd&token_id=BFF6Egn3WY2QZc2B1wiZdgLdny8xKMC6PhfDnGopTmKQ"><code>t56nkS2PYm1CaPf8XhHS2Nqa8MPvR3jaB5cAiycfdMd</code></a></p>
-  <p>TON : <a href="https://link.trustwallet.com/send?coin=607&address=UQBwhwhmuf5KgNcPC0QGC0o_2uhoPsBkUqpd68mNk4MWOgEv"><code>UQBwhwhmuf5KgNcPC0QGC0o_2uhoPsBkUqpd68mNk4MWOgEv</code></a></p>
-  <p>ETH : <a href="https://link.trustwallet.com/send?coin=60&address=0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62"><code>0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62</code></a></p>
-  <p>TRX : <a href="https://link.trustwallet.com/send?coin=195&address=TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
+  <p><a href="https://daramet.com/hctilg"><b> درگاه حمایت مالی ریالی دارمت </b></a></p>
+  <p>USDT (TRC20) : <a href="#"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
+  <p>ETH : <a href="#"><code>0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62</code></a></p>
+  <p>TRX : <a href="#"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
 </div>
 
 <!--## About Me
@@ -72,17 +72,16 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)-->
 
-## Currently Learning
+<!--## Currently Learning
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-<!--[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)-->
 
-<!--## Languages
+## Languages
 
 - **English**: Beginner (A1)
 - **Persian**: Native
--->
