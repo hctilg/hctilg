@@ -16,13 +16,6 @@
 <br>I'm just trying to survive, to live, & to find a few freedom. I really need this... 
 <br>I’ll be back soon ‒ I’ll keep learning & delete this message. (probably) 
   </p>
-  <h2>Donate</h2>
-  <p>To support me, <b>Donate Money</b> or Follow Me and give <a href="https://github.com/hctilg?tab=repositories"><b>My Projects</b></a> a star 🌟</p>
-  <p><a href="https://daramet.com/hctilg"><b> درگاه حمایت مالی ریالی دارمت </b></a></p>
-  <p>USDT (TRC20) : <a href="#"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
-  <p>ETH : <a href="#"><code>0xf841aE10f11fD0975DCA3DF5404340bB0ba2DA62</code></a></p>
-  <p>TRX : <a href="#"><code>TGwT3qdcocxuKGg9DzHFHTL6s8GmYzFDRi</code></a></p>
-</div>
 
 <!--## About Me
 
