@@ -21,13 +21,13 @@
 
 I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.-->
 
-<!--## Socials
+## Socials
 
 <p align="center">
   <a href="https://youtube.com/@mahi_void">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://t.me">
+  <a href="https://t.me/xAquarium">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
   <a href="https://element.io/">
@@ -39,7 +39,7 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
   <a href="mailto:hctilg@duck.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
   </a>
-</p>-->
+</p>
 
 <!--# Tech Stack
 
