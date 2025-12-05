@@ -30,9 +30,6 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
   <a href="https://t.me/xAquarium">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://element.io/">
-    <img alt="Element" src="https://img.shields.io/badge/Element-0dbd8b.svg?logo=element&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white"/>
   </a>
