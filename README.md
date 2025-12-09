@@ -9,11 +9,6 @@
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
 </p>-->
 
-<p align="center">
-  <img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
-</p>
-
 <div align="center">
   <h2>Temporary message</h2>
   <p>
