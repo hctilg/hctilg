@@ -12,7 +12,7 @@
 <div align="center">
   <h2>Temporary message</h2>
   <p>
-    I’ve been so fucking wrecked ‒ mentally (+severe family, financially, & physically problems) 
+    I’ve been so fucking wrecked
 <br>I'm just trying to survive, to live, & to find a few freedom. I really need this... 
 <br>I’ll be back soon ‒ I’ll keep learning & delete this message. (probably) 
   </p>
@@ -31,7 +31,7 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=inspire&logoColor=white"/>
   </a>
   <a href="mailto:hctilg@duck.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
