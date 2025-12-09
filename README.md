@@ -73,5 +73,7 @@ I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong 
 
 ## Languages
 
+</div>
+
 - **English**: Beginner (A1)
 - **Persian**: Native
