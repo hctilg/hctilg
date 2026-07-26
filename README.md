@@ -1,4 +1,4 @@
-### Hey There 👋-->
+### Hey There 👋
 
 <br>
 <p align="center">
