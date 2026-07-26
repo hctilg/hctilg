@@ -1,6 +1,6 @@
 ## About Me
 
-I'm **Mahoor**, a **Programmer** interested in **Data Science**, **DevOps**, **Network** and **Web Development**.
+I'm **Mahoor**, a interested in **Data Science**, **DevOps**, **Network** and **Web Development**.
 
 I enjoy researching scientific/technological things and am constantly learning to improve my skills.
 
