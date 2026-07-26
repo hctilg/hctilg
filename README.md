@@ -2,7 +2,7 @@
 
 I'm **Mahoor**, interested in **Data Science**, **DevOps Engineering** and **Web Development**.
 
-I enjoy researching scientific/technological topics and am constantly learning to expand my knowledge and improve my skills.
+I enjoy researching scientific topics and am constantly learning to expand my knowledge and improve my skills.
 
 In my free time, I like to work on personal projects or contribute to open-source initiatives.
 
