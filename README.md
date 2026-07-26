@@ -1,10 +1,10 @@
 ## About Me
 
-I'm **Mahoor**, a interested in **Data Science**, **DevOps**, **Network** and **Web Development**.
+I'm **Mahoor**, interested in **Data Science**, **DevOps** and **Web Development**.
 
-I enjoy researching scientific/technological things and am constantly learning to improve my skills.
+I enjoy exploring scientific/technological things and am constantly learning to expand my knowledge and improve my skills.
 
-In my free time, I like to work on personal projects, contribute to open-source initiatives.
+In my free time, I like to work on personal projects or contribute to open-source initiatives.
 
 <br>
 <p align="center">
