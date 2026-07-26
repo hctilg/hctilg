@@ -3,15 +3,21 @@
 <br>
 <p align="center">
   <img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=20&exclude_repo=web-shell,pinterest-crawler&hide=Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=8&exclude_repo=web-shell,pinterest-crawler&hide=c++,dart,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
 </p>
+
+## About Me
+
+I'm **Mahoor**, a **Programmer** interested in **Data Science**, **DevOps**, **Network** and **Web Development**.
+
+I enjoy researching scientific/technological things and am constantly learning to improve my skills.
+
+In my free time, I like to work on personal projects, contribute to open-source initiatives.
+
+<br>
 <p align="center">
     <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
 </p>
-
-<!--## About Me
-
-I'm **Mahi**, a passionate **Web** and **Telegram bot** developer with a strong interest in **AI** and **Machine Learning** and **Deep Learning** and etc. I enjoy exploring new technologies and constantly learning to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.-->
 
 ## Socials
 
