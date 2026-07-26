@@ -1,11 +1,3 @@
-### Hey There  👋
-
-<br>
-<p align="center">
-  <img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=8&exclude_repo=web-shell,pinterest-crawler&hide=c++,dart,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
-</p>
-
 ## About Me
 
 I'm **Mahoor**, a **Programmer** interested in **Data Science**, **DevOps**, **Network** and **Web Development**.
@@ -16,7 +8,11 @@ In my free time, I like to work on personal projects, contribute to open-source 
 
 <br>
 <p align="center">
-    <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
+  <img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=8&exclude_repo=web-shell,pinterest-crawler&hide=c++,dart,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+</p>
+<p align="center">
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
 </p>
 
 ## Socials
