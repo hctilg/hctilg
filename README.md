@@ -24,7 +24,7 @@ In my free time, I like to work on personal projects or contribute to open-sourc
   <a href="https://t.me/xAquarium">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/mahoor-nemati">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=inspire&logoColor=white"/>
   </a>
   <a href="mailto:hctilg@duck.com">
