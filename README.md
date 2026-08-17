@@ -9,7 +9,7 @@ In my free time, I like to work on personal projects or contribute to open-sourc
 <br>
 <p align="center">
   <img alt="Your GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hctilg&theme=tokyonight&layout=compact&area=true&show_icons=true&hide_border=true&border_radius=15&count_private=true"/>
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=8&exclude_repo=web-shell,pinterest-crawler&hide=c++,dart,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hctilg&langs_count=8&exclude_repo=web-shell,pinterest-crawler&hide=c,c%2B%2B,perl,lua,dart,Make,css,html&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15&count_private=true"/>
 </p>
 <p align="center">
   <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
@@ -56,10 +56,9 @@ In my free time, I like to work on personal projects or contribute to open-sourc
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/Kafka-white?style=flat&logo=apachekafka&logoColor=231F20)](https://kafka.apache.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![MySql](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)](https://mysql.com/)
 
 ## Languages
 
