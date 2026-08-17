@@ -15,23 +15,6 @@ In my free time, I like to work on personal projects or contribute to open-sourc
   <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact&area=true&hide_border=true&border_radius=15"/>
 </p>
 
-## Socials
-
-<p align="center">
-  <a href="https://youtube.com/@mahi_void">
-    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://t.me/xAquarium">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mahoor-nemati">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=inspire&logoColor=white"/>
-  </a>
-  <a href="mailto:hctilg@duck.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 # Tech Stack
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
