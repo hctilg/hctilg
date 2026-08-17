@@ -32,38 +32,34 @@ In my free time, I like to work on personal projects or contribute to open-sourc
   </a>
 </p>
 
-<!--# Tech Stack
+# Tech Stack
 
-. . .
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
+[![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
 [![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://python.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://ruby-lang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![JavaScript](https://img.shields.io/badge/%E2%81%AA%E2%81%AC%20JavaScript-232529?style=flat&logo=javascript&logoColor=f7df1e)](https://en.wikipedia.org/wiki/JavaScript)
-[![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![MySql](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)](https://mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)-->
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 
-<!--[![Rust](https://img.shields.io/badge/Rust-e43717.svg?style=flat&logo=rust&logoColor=white)](https://rust-lang.org/)
-<!--[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-0d6efd?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)-->
-
-<!--## Currently Learning
+## Currently Learning
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)](https://n8n.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Kafka-white?style=flat&logo=apachekafka&logoColor=231F20)](https://kafka.apache.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![Vue](https://img.shields.io/badge/Vue.js-323232?style=flat&logo=vuedotjs&logoColor=4fc08d)](https://vuejs.org/)-->
+[![MySql](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=mysql&logoColor=white)](https://mysql.com/)
 
 ## Languages
 
