@@ -20,7 +20,7 @@ In my free time, I like to work on personal projects or contribute to open-sourc
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)](https://raspberrypi.com/)
 [![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
-[![Bash](https://img.shields.io/badge/Bash-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Bash Script](https://img.shields.io/badge/Bash%20Script-373737?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](https://ruby-lang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net)
