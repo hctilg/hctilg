@@ -32,6 +32,7 @@ In my free time, I like to work on personal projects or contribute to open-sourc
 ## Currently Learning
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)](https://en.wikipedia.org/wiki/Git)
